@@ -1,6 +1,6 @@
 ### Hello there, I'm Rodrigo  👋
 
- <img align="right" alt="GIF" src="https://i.gifer.com/6M8G.mp4" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="320" />
 
 
 - ✍ You can find my projects here (comming soon)
