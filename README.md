@@ -1,4 +1,4 @@
-### Hello there, I'm Rodrigo  👋
+<h1> Hello there, I'm Rodrigo  👋 </h1>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="430" height="250" />
 
