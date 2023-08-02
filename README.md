@@ -1,5 +1,7 @@
 <h1> Hello there👋</h1>
 
+I'm a passionate programmer with a background in Electronics Engineering. I have a strong interest in software development and enjoy exploring various programming languages and technologies. In my free time, you can often find me immersed in playing video games, especially those with captivating stories and engaging gameplay.
+
 ## 🚀 About Me
 
 - Software Engineer
